@@ -72,3 +72,31 @@ button{
 .btn-clear{
     background-color: red;
 }
+
+
+
+
+
+
+
+.btn-dark{
+    background-color:#000;
+    color: #fff;
+}
+
+.btn-ligth{
+    background-color:rgb(31, 157, 230);
+    color: #000;
+}
+
+
+
+
+.calculator-ligth{
+    background-color: rgb(31, 157, 230);
+}
+
+.screen-light{
+    background-color: antiquewhite;
+    color: #000;
+}
